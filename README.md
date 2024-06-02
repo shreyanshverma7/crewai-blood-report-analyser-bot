@@ -33,4 +33,4 @@ This Jupyter Notebook automates the process of analyzing blood test reports and 
 
 ---
 
-Feel free to customize the instructions or provide additional details as needed.
+PS: Due to limited token size I have chosen page number 1 and 3 as they contained the majority of the test results for the analysis.
